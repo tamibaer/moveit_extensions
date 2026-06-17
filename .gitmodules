@@ -1,0 +1,6 @@
+[submodule "moveit_visual_tools"]
+	path = moveit_visual_tools
+	url = git@github.com:tamibaer/moveit_visual_tools.git
+[submodule "moveit_task_constructor"]
+	path = moveit_task_constructor
+	url = git@github.com:tamibaer/moveit_task_constructor.git
